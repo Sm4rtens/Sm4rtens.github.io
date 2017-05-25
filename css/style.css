@@ -31,7 +31,7 @@ header #logo {
 }
 header #logo img {
 	width: 50px;
-	border-radius: 3px;
+	border-radius: 5px;
 	margin-right: 8px;
 	vertical-align: middle;
 }
@@ -46,7 +46,7 @@ header #main-navigation {
 
 header #main-navigation ul {
 	list-style: none;
-	padding: 0;
+	padding: 30px;
 }
 header #main-navigation ul li {
 	display: inline-block;
