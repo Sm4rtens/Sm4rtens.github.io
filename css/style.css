@@ -19,7 +19,7 @@ body {
 header {
 	background: #222;
 	color: #FFF;
-	padding: 20px 30px;
+	
 }
 
 /* Logo */
@@ -46,7 +46,7 @@ header #main-navigation {
 
 header #main-navigation ul {
 	list-style: none;
-	padding: 30px;
+	padding: 20px;
 }
 header #main-navigation ul li {
 	display: inline-block;
